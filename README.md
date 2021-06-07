@@ -1,4 +1,9 @@
 # To-Do-App
+
+To-Do is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing ones.  
+
+Submitted by: **Gurpreet Kaur**
+
 ## FEARTURES :
 1.It can successfully add and remove task from the list.  
 2.User can tap on task and edit already written task.  
