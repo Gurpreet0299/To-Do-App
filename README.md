@@ -1,13 +1,19 @@
 # To-Do-App
- FEARTURES :
-1.It can successfully add and remove task from the list.
-2.User can tap on task and edit already written task.
-3.It can persist tasks and retrieve them when app restarts.
-4.It can sort list alphatecially and priority given by user.
+## FEARTURES :
+1.It can successfully add and remove task from the list.  
+2.User can tap on task and edit already written task.  
+3.It can persist tasks and retrieve them when app restarts.  
+4.It can sort list alphatecially and by priority basis.  
 
-SCREENSHOTS :
-![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 00_28_38](https://user-images.githubusercontent.com/63083518/120985790-93e34180-c799-11eb-9ce9-5b12ea910aa4.png)
-![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 00_29_11](https://user-images.githubusercontent.com/63083518/120985803-96de3200-c799-11eb-8d3f-359abae8f240.png)
-![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 00_29_46](https://user-images.githubusercontent.com/63083518/120985809-9776c880-c799-11eb-80bc-30bcd9db605b.png)
-![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 00_29_57](https://user-images.githubusercontent.com/63083518/120985811-980f5f00-c799-11eb-9e8a-8cc9d18c40ad.png)
-![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 00_22_19](https://user-images.githubusercontent.com/63083518/120985813-98a7f580-c799-11eb-903f-033b1811e355.png)
+## SCREENSHOTS :
+
+
+![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 15_25_08](https://user-images.githubusercontent.com/63083518/120999554-e1b27680-c7a6-11eb-9817-e21a8d9f1187.png)
+![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 15_25_34](https://user-images.githubusercontent.com/63083518/120999602-f2fb8300-c7a6-11eb-9593-4a97293a0cfe.png)
+![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 15_25_55](https://user-images.githubusercontent.com/63083518/120999651-fee74500-c7a6-11eb-9029-0e2408e916f8.png)
+![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 15_26_02](https://user-images.githubusercontent.com/63083518/120999684-04448f80-c7a7-11eb-83bb-f27913d437b8.png)
+![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 15_26_14](https://user-images.githubusercontent.com/63083518/120999748-16263280-c7a7-11eb-8980-4df3dc1f849b.png)
+![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 15_26_24](https://user-images.githubusercontent.com/63083518/120999768-1cb4aa00-c7a7-11eb-8d1a-c5fbf5ca418a.png)
+
+
+
