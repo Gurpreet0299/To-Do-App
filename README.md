@@ -13,12 +13,13 @@ Submitted by: **Gurpreet Kaur**
 ## SCREENSHOTS :
 
 
-![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 15_25_08](https://user-images.githubusercontent.com/63083518/120999554-e1b27680-c7a6-11eb-9817-e21a8d9f1187.png)
-![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 15_25_34](https://user-images.githubusercontent.com/63083518/120999602-f2fb8300-c7a6-11eb-9593-4a97293a0cfe.png)
-![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 15_25_55](https://user-images.githubusercontent.com/63083518/120999651-fee74500-c7a6-11eb-9029-0e2408e916f8.png)
-![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 15_26_02](https://user-images.githubusercontent.com/63083518/120999684-04448f80-c7a7-11eb-83bb-f27913d437b8.png)
-![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 15_26_14](https://user-images.githubusercontent.com/63083518/120999748-16263280-c7a7-11eb-8980-4df3dc1f849b.png)
-![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 15_26_24](https://user-images.githubusercontent.com/63083518/120999768-1cb4aa00-c7a7-11eb-8d1a-c5fbf5ca418a.png)
+
+![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 15_25_08](https://user-images.githubusercontent.com/63083518/121395280-dfe7df00-c96f-11eb-8f2b-48163fa57392.png)
+![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 15_25_34](https://user-images.githubusercontent.com/63083518/121395296-e37b6600-c96f-11eb-9684-0870fcc7b77c.png)
+![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 15_25_55](https://user-images.githubusercontent.com/63083518/121395304-e6765680-c96f-11eb-92dd-1de000bb5fb1.png)
+![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 15_26_02](https://user-images.githubusercontent.com/63083518/121395317-e8d8b080-c96f-11eb-88cc-2c49a4ef4de8.png)
+![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 15_26_14](https://user-images.githubusercontent.com/63083518/121395349-f3934580-c96f-11eb-838e-8e2d57796dd6.png)
+![Android Emulator - Pixel_XL_API_29_5554 07-06-2021 15_26_24](https://user-images.githubusercontent.com/63083518/121395353-f68e3600-c96f-11eb-85ae-ea705c918b33.png)
 
 
 
